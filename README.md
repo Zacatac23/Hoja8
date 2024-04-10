@@ -53,10 +53,3 @@ Breve descripción del proyecto.
 java org.example.Main
 5. Sigue las instrucciones en pantalla para cargar el archivo de pacientes y observa cómo son atendidos en orden de prioridad.
 
-## Contribución
-
-Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes enviar pull requests con mejoras o correcciones, o bien, abrir problemas para informar sobre errores o sugerir nuevas características.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
