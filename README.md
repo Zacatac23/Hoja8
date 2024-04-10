@@ -21,6 +21,28 @@ El proyecto está organizado en los siguientes paquetes:
 ## Requisitos
 
 - Java Development Kit (JDK) 8 o superior.
+# Nombre del Proyecto
+
+Breve descripción del proyecto.
+
+## Diagramas UML
+
+### Primer Programa
+
+#### Diagrama UML de Clases
+![image](https://github.com/Zacatac23/Hoja8/assets/132374201/7405cda8-90e5-4a72-aed4-908cb6743adb)
+
+#### Diagrama UML de Secuencia
+![image](https://github.com/Zacatac23/Hoja8/assets/132374201/af73b359-f9f0-49f8-b80e-233e7093cdc4)
+
+### Segundo Programa
+
+#### Diagrama UML de Clases
+![image](https://github.com/Zacatac23/Hoja8/assets/132374201/8041c54d-f5c8-4644-8f98-1bdea971341d)
+
+
+#### Diagrama UML de Secuencia
+![image](https://github.com/Zacatac23/Hoja8/assets/132374201/604211cb-7b4f-4d72-b52a-154422961d5f)
 
 ## Cómo Usar
 
